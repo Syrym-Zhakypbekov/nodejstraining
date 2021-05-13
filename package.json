@@ -1,0 +1,30 @@
+{
+  "name": "nodejstraining",
+  "version": "1.0.0",
+  "description": "for node training",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.8",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomad-usa/nodejstraining.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Syrym Zhakypbekov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomad-usa/nodejstraining/issues"
+  },
+  "homepage": "https://github.com/nomad-usa/nodejstraining#readme"
+}
